@@ -1,5 +1,1 @@
 Welcome
-
-Another line.
-
-And another
